@@ -1,2 +1,5 @@
 for in range(10),
-prinr('yahoo')
+print('yahoo')
+
+print('done with for loops')
+print('wait what about while loops')
